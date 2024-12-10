@@ -1,0 +1,5 @@
+.env
+*.sqlite3
+*.bin
+batter_data_norm_원본.csv
+pitcher_data_norm_원본.csv
